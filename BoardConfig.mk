@@ -6,9 +6,6 @@ LOCAL_PATH := device/samsung/gprimeltezt
 # Asserts
 TARGET_OTA_ASSERT_DEVICE := gprimeltezt,fortunaltezt,fortunalteuh,gprimelteuh,samsung_sm_g530mu,g530mu
 
-# Init
-TARGET_LIBINIT_DEFINES_FILE := $(LOCAL_PATH)/init/init_gprimeltezt.cpp
-
 # Kernel
 TARGET_KERNEL_VARIANT_CONFIG := msm8916_sec_fortuna_chnzt_defconfig
 
