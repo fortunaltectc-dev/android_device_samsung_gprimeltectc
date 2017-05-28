@@ -17,9 +17,3 @@ DEVICE_PACKAGE_OVERLAYS += device/samsung/gprimeltezt/overlay
 NXP_CHIP_TYPE := 1
 PRODUCT_PACKAGES += \
 	nfc_nci.pn54x.msm8916
-
-# Properties
-PRODUCT_PROPERTY_OVERRIDES += \
-	ro.product.model=SM-G530MU \
-	ro.product.device=gprimeltezt
-
