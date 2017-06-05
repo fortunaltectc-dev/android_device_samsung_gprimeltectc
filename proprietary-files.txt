@@ -87,6 +87,9 @@ etc/firmware/Signedrompatch_v21.bin
 etc/firmware/Signedrompatch_v20.bin
 
 # RIL
+bin/rild
+lib/libril.so
+lib/librilutils.so
 lib/libsec-ril.so
 
 # Sensors - J500HXXU1APE5_J500HOXE1APE5_J500HXXU1APC2
