@@ -72,9 +72,6 @@ vendor/lib/libmmqjpeg_codec.so
 vendor/lib/liboemcamera.so
 vendor/lib/libqomx_jpegenc.so
 
-# NFC
-etc/firmware/nfc_test.bin
-
 # Qualcomm framework
 vendor/lib/libdiag.so
 vendor/lib/libdsutils.so
@@ -89,11 +86,12 @@ vendor/lib/libqmiservices.so
 vendor/lib/libqmi.so
 vendor/lib/lib-sec-disp.so
 
-# RIL
+# RIL - G530HXCS1BQB1_G530HUUB1BPI1
 bin/rild
 lib/libril.so
 lib/librilutils.so
-lib/libsec-ril.so
+lib/libsec-ril.so|94198c725635a3c3dd2e7f345debed5a
+lib/libsec-ril-dsds.so|681ba2631ae027b033bab74bf9234c94
 
 # Sensors - J500HXXU1APE5_J500HOXE1APE5_J500HXXU1APC2
 lib/hw/sensors.msm8916.so|fb5fbe6b832c242e18ab0a5cb53ad91c
