@@ -16,11 +16,3 @@
 |                 Display | 540 x 960 (qHD), 5.0" (126.4mm)          |
 |             Rear Camera | 8.0 MP, LED flash                        |
 |            Front Camera | 5.0 MP                                   |
-
-Check the [`local_manifest`](./local_manifest) directory
-
-
-## Credits:
-- [x] Grand Prime SM-G530FZ (codename:fortuna) contributors (https://github.com/GrandPrime)
-- [x] Grand Prime SM-G530H (codename:fortuna3g) contributors (https://github.com/ZIM555)
-- [x] Viper4Android by `ViPER520` (http://vipersaudio.com/blog/)
