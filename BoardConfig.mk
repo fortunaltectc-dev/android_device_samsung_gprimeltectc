@@ -1,13 +1,13 @@
 # Inherit from common
 include device/samsung/gprimelte-common/BoardConfigCommon.mk
 
-LOCAL_PATH := device/samsung/gprimeltezt
+LOCAL_PATH := device/samsung/gprimeltectc
 
 # Asserts
-TARGET_OTA_ASSERT_DEVICE := gprimeltezt,fortunaltezt,fortunalteuh,gprimelteuh
+TARGET_OTA_ASSERT_DEVICE := gprimeltectc,fortunaltectc
 
 # Kernel
-TARGET_KERNEL_VARIANT_CONFIG := msm8916_sec_fortuna_chnzt_defconfig
+TARGET_KERNEL_VARIANT_CONFIG := msm8916_sec_fortuna_ctc_defconfig
 
 # Keymaster
 TARGET_PROVIDES_KEYMASTER := true
